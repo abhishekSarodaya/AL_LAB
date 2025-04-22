@@ -60,7 +60,7 @@ This repository contains the implementation of various **Artificial Intelligence
 
 
 🎯 Conclusion
-These practicals provide hands-on experience with search algorithms, NLP techniques, AI models, and real-world AI applications. Covering fundamental AI concepts, these implementations bridge the gap between theory and practice.
+- These practicals provide hands-on experience with search algorithms, NLP techniques, AI models, and real-world AI applications. Covering fundamental AI concepts, these implementations bridge the gap between theory and practice.
 ---
 📢 Note
 This repository is maintained as part of the Semester VI AI Lab Practical coursework.
