@@ -39,8 +39,8 @@ This repository contains the implementation of various **Artificial Intelligence
 ### 7️⃣ Feature Extraction & Analysis for NLP 🔬  
 - Engineered features from text and analyzed word embeddings/statistics.
 
-### 8️⃣ Spam Filter Using NLP 📩  
-- Built a Naïve Bayes classifier for detecting spam vs ham messages.
+### 8️⃣ Sentiment Analysis Using NLP 📩  
+- Do sentiment analysis on candidate data using NLP techniques.
 
 ### 9️⃣ Robot Traversal Problem 🤖  
 - Implemented Perceptron models for robotic movement across categorized paths.
@@ -48,13 +48,6 @@ This repository contains the implementation of various **Artificial Intelligence
 ### 🔟 Tic-Tac-Toe Game AI 🎮  
 - Developed a Tic-Tac-Toe game using the Minimax Algorithm for optimal AI moves.
 
-### 1️⃣1️⃣ AI-Based Expert Systems 🏥  
-- Case Study: Developed a Course Advisor Expert System.  
-- Evaluated Medical Expert Systems using AI models.
-
-### 1️⃣2️⃣ Real-World AI Applications 🌍  
-- **Sentiment Analysis:** Analyzed sentiment in real-world datasets.  
-- **Fake News Detection:** Built an NLP model to classify fake vs real news.
 
 ---
 
